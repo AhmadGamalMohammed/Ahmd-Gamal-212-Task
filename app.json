@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meal-app",
-    "slug": "meal-app",
+    "name": "two-one-two-task",
+    "slug": "two-one-two-task",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +25,11 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "android": {
+      "package": "com.twoonetwo.twoonetwo",
+      "versionCode": 1
+    },
+    "description": ""
   }
 }
